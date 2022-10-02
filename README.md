@@ -1,3 +1,11 @@
+# Git əmrləri
+* git init (git-i qovluğa quraşdırır)
+
+* git status (git-dəki dəyişiklikləri göstərir)
+* git add . (git-də olan dəyişiklikləri 'qutuya' qoyur)
+* git commit -m 'commitin mesajı' (git-də olan dəyişikliklərin üzərini etiketləyib 'yük maşınına' qoyur)
+* git push (git-dəki dəyişiklikləri uzaqdakı anbara (GitHub-a) göndərir)
+
 ## 02.10.2022
 1. İnternet vs Web
 2. HTML və CSS giriş
